@@ -8,11 +8,11 @@ This quick and dirty utility for IL2 TacView files accomplishes two things:
 ## Usage
 
 * Install Python3
-* Download/Extract il2_trackview_cleaner.py
+* Download/Extract il2_tacview_cleaner.py
 * Open and/or merge all relevant TacView recordings and then save them somewhere as .txt.acmi
-* Drag and drop your .txt.acmi file onto il2_trackview_cleaner.py, or call it as follows
+* Drag and drop your .txt.acmi file onto il2_tacview_cleaner.py, or call it as follows
 ```
-python3 .\il2_trackview_cleaner.py <filename>
+python3 .\il2_tacview_cleaner.py <filename>
 ```
 * A _cleaned.txt.acmi file will be created in the same directory as your input file
 * Load this file in TacView and enjoy
