@@ -2,8 +2,8 @@
 
 This quick and dirty utility for IL2 TacView files accomplishes two things:
 
-*Sets Axis colors to blue and Allied colors to red, even when merging recordings from inconsistent clients.
-*Removes positionless entries for bombs and some other objects so that they appear on the field when and where they should.
+* Sets Axis colors to blue and Allied colors to red, even when merging recordings from inconsistent clients.
+* Removes positionless entries for bombs and some other objects so that they appear on the field when and where they should.
 
 ## Usage
 
